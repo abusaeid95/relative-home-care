@@ -79,10 +79,10 @@
       width: 200px;
   }
   .menu-bars-text{
-      color: ivory;
-      text-decoration: none;
-      margin-left: 50px;
-      text-align:center ;
+      color: ivory !important;
+      text-decoration: none !important;
+      margin-left: 10px !important;
+      text-align:center !important;
   }
   .for-lg a{
     color: white;
@@ -104,10 +104,6 @@
       text-align: center;
       cursor: pointer
   }
-  .login-logout a{
-      text-decoration: none;
-      color: white;
-  }
   .login-logout{
     font-size: 30px;
     color: white;
@@ -115,6 +111,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    text-decoration: none;
   }
   .login-logout:hover{
     background-color: rgba(61, 235, 177, 0.555);
@@ -146,6 +143,9 @@
             margin: 0px;
             text-align: center;
             cursor: pointer
+        }
+        .signout{
+          font-size: 15px;
         }
     }
     @media only screen and (min-width: 992px){

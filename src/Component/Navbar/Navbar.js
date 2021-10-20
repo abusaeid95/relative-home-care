@@ -32,11 +32,11 @@ const Navbar = () => {
               <Link to="/donate">Donate</Link>
               <Link to="/contactus">Message</Link>
             </div>
-            <div className="login-logout">
-              {!user.email && <Link to="/signin">Sign In</Link>
+            <div>
+              {!user.email && <Link to="/signin" className="login-logout">Sign In</Link>
               }
               {user.email &&
-                <div className="d-flex align-items-center">
+                <div className="d-flex align-items-center signout">
                   <button onClick={logOut} className="bg-info rounded me-3" >Sign Out</button> 
                   <p className='pb-0'>{user.displayName || user.email}</p></div>}
 
