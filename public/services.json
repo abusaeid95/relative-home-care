@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Aged care services",
+        "description": "Over the last 40 years Arcare have established themselves as the premium accredited provider of residential aged care for older Australians throughout Queensland, Victoria and New South Wales.",
+        "img": "https://arcare.com.au/wp-content/uploads/2021/02/Arcare_Aged_Care_Brand_Client-Team-Member-Blood-Pressure-650x332.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Sensitive (Dementia) Care",
+        "description": "We are committed to nurturing the well-being and development of all people who live in our residential communities. We understand that some people living with dementia require extra support in order to experience well-being and continued growth.",
+        "img": "https://arcare.com.au/wp-content/uploads/2021/02/Arcare_Aged_Care_Brand_Clients-in-Pimpama-Courtyard-2-650x332.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Nursing and Support Services",
+        "description": "There are fully qualified Registered Nurses and other clinical support team members in every Arcare residence – 24 hours a day, seven days a week, 365 days a year.",
+        "img": "https://arcare.com.au/wp-content/uploads/2021/02/Arcare_Aged_Care_Brand_Team-Member-Nurse-650x332.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Permanent Residential Aged Care Living",
+        "description": "People move into residential aged care because they need increased support to continue to live their lives – on their own terms.",
+        "img": "https://arcare.com.au/wp-content/uploads/2021/02/Arcare_Aged_Care_Brand_Client-Son-Happy-Chat-650x332.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Palliative Care",
+        "description": "Relative care's specialised health and social care professionals provide consistent, intuitive and holistic palliative care and support for you and those closest to you.",
+        "img": "https://arcare.com.au/wp-content/uploads/2021/02/Arcare_Aged_Care_Brand_Client-Son-Home-650x332.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Respite Care",
+        "description": "Residential respite care is a great way for you to take a break and immerse yourself in one of Arcare’s stunning residential communities.",
+        "img": "https://arcare.com.au/wp-content/uploads/2021/02/Arcare_Aged_Care_Brand_Client-Chat-Outside-650x332.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Host Home Program",
+        "description": "The groups meet weekly, with activities designed to promote physical and emotional wellbeing while encouraging independence and active ageing.",
+        "img": "https://thumbs.dreamstime.com/z/elderly-care-nurse-helping-senior-wheel-chair-to-bed-71279626.jpg"
+    }
+]

@@ -1,0 +1,19 @@
+.signin-btn{
+    background-color: darkturquoise;
+    font-size: 30px;
+    padding: 3px 15px;
+    border-radius: 10px;
+    color: white;
+
+}
+.signin input{
+    width: 437px;
+    border: 2px solid rgb(173, 31, 216);
+}
+.donatebtn{
+    background-color: goldenrod;
+    color: white;
+    border-radius: 10px;
+    width: 250px;
+    font-weight: 900;
+}

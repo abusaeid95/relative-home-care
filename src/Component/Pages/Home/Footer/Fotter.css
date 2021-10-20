@@ -1,0 +1,33 @@
+.footer-main{
+    background-color: #4b08a1;
+    display: flex;
+    justify-content: space-between;
+    /* margin-right: 50px; */
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+}
+
+.social-icon{
+    font-size: 40px;
+    text-align: center;
+    color: white
+}
+.footer-btn{
+    background-color: #4b08a1;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    /* position: relative;
+    right: -776px; */
+}
+.footer-btn:hover{
+    background-color: white;
+    color: black;
+}
