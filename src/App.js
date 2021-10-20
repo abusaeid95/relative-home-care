@@ -44,10 +44,10 @@ function App() {
             <Route path="/team">
               <Team></Team>
             </Route>
-            <Route path="/about-us">
+            <Route path="/aboutus">
               <AboutUs></AboutUs>
             </Route>
-            <Route path="/contact-us">
+            <Route path="/contactus">
               <Message></Message>
             </Route>
             <Route path="/signup">

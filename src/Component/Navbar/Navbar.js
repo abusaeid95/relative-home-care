@@ -36,9 +36,9 @@ const Navbar = () => {
               {!user.email && <Link to="/signin">Sign In</Link>
               }
               {user.email &&
-                <div>
-                  <p>{user.displayName || user.email}</p>
-                  <button onClick={logOut}>Sign Out</button> </div>}
+                <div className="d-flex align-items-center">
+                  <button onClick={logOut} className="bg-info rounded me-3" >Sign Out</button> 
+                  <p className='pb-0'>{user.displayName || user.email}</p></div>}
 
             </div>
           </div>
